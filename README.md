@@ -14,12 +14,11 @@
 
 # DESCRIPTION OF MY TASK 
 
-*For this project, I used Kaggle’s Wine Quality dataset to build various classification models to predict whether a particular wine is “good quality” or not. Each wine in this dataset is given a “quality” score between 0 and 10. For the purpose of this project, I converted the output to a binary output where each wine is either “good quality” (a score of 6 or higher) or not (a score below 6). The quality of a wine is determined by 11 input variables*
+* For this project,I used kaggle's wine quality dataset to build varoius classification models to predict whether a particular wine is 'good quality' or not . Each wine in this  dataset is given a 'quality' score between 0 and 10 . For the purpose of this project,I converted the output where each wine is either 'good quality' (a score of  or higher) or not (a score below 6) . The quality of wine is determined by 11 input variables.
 
 Fixed acidity
 
 Volatile acidity
-
 
 Citric acid
 
